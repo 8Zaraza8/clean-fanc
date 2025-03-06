@@ -1,5 +1,7 @@
+image: Ubuntu
+
 environment:
-  nodejs_version: "18"
+  nodejs_version: "23.6.0"
 
 branches:
   only:
